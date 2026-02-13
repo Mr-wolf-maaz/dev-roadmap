@@ -2,8 +2,14 @@
 using namespace std;
 
 int main (){
-
-cout<<"hello wold day 5"<<endl;
-
+int n;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello wold day 5/"<<endl;
+cout<<"hello my wold day 5/"<<endl;
 
 }
