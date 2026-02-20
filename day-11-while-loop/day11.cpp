@@ -97,7 +97,7 @@ while (num1 != 0 ){
      count1 ++;
 }
 
-// cout << count1 << endl;
+ cout << count1 << endl;
 
 int num2 = 73843;
 int maxDigit =  0;
