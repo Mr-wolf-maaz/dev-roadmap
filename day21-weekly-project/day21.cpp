@@ -28,7 +28,7 @@ int sumArray(int arr[], int n){
 
 
 int main(){
-    cout<<"PLEAS SELECT OPTION\n1. TO FINED FACTORIAL\n2. TO FINED FABONACCI\n3.TO FINED SUM OF ARRAY\n";
+    cout<<"PLEAS SELECT OPTION\n1. TO FINDE FACTORIAL\n2. TO FINED FABONACCI\n3.TO FINDE SUM OF ARRAY\n";
     int select;
     cin>>select;
 
